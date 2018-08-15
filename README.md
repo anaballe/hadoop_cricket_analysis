@@ -1,4 +1,4 @@
-# hadoop_cricket_analysis
+# Cricket Analysis Using HDFS and Mapreduce APIs
 Cricket Data Analytics Using HDFS and Mapreduce APIs.It is an analysis of a cricket cup played by countries using Hadoop as a distributed file system.It makes use of Mapreduce APIs written in Java(Mapreduce-2) in Mapper-Reducer method controlled by a driver program.
 Project Task For Analysis:
 1. Calculate Team wise total score.
